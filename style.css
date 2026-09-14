@@ -1,23 +1,16 @@
-p {
-    text-align:end;
-}
- 
-
-a {
-    text-decoration: none;
+* {
+    font-family: 'Times New Roman', Times, serif;
 }
 
-#h1 {
-    font-weight: 100;
+
+    h1 {
+    text-align: center;
+    text-transform: capitalize;
 }
 
-#h2 {
-    font-weight: 200;
+#one {
+    font-size: 25px;
 }
-#h3{
-   font-weight: 300; 
-}
-
-#h4 {
-    font-weight: 900;
+#two {
+    font-size: 10px;
 }
