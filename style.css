@@ -1,22 +1,18 @@
-div {
-    height: 100px;
-    width: 100px;
+#one {
+    background-color: blue;
+}
+#two {
     background-color: green;
-    /* border-width: 2px;
-    border-style: solid; */
-    /* border-color: brown; */
-    text-align: center;
-    border: 2px solid black;
-    border-radius: 30px;
+    display: none;
+}
+#three {
+    background-color: blue;
 }
 
-h1 {
-    width: 200px;
-    height: 50px;
-    background-color: blue;
-    border-width: 3px;
-    border-style: dashed;
-    border-color: black;
-    text-align: center;
-    border-radius: 30%;
+div {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
 }
