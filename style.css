@@ -1,18 +1,19 @@
-#one {
-    background-color: blue;
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
 }
-#two {
-    background-color: green;
-    display: none;
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
 }
-#three {
-    background-color: blue;
+button {
+    background-color: #f08804;
 }
-
-div {
-    width: 100px;
-    height: 100px;
-    margin: 25px;
-    padding: 25px;
-    display: inline-block;
+#logo {
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 180px;
 }
