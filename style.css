@@ -1,9 +1,12 @@
 *{
     margin: 0;
     padding: 0;
-    color: white;
-}
-#navbar {
+    /* color: white; */
+   }
+
+
+/* amzazo header */
+/* #navbar {
     height: 60px;
     background-color: #0f1111;
 }
@@ -17,4 +20,10 @@ button {
 a{
     margin-right: 180px;
     text-decoration: none;
+} */
+
+div{
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
 }
