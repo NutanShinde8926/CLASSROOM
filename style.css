@@ -1,12 +1,13 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     /* color: white; */
    }
 
 
-amzazo header */
- #navbar {
+/* amzazo header */
+ /* #navbar {
     height: 60px;
     background-color: #0f1111;
 }
@@ -20,10 +21,43 @@ button {
 a{
     margin-right: 180px;
     text-decoration: none;
-}
+}  */
 
-div{
+/* div{
     margin: 25px;
     padding: 25px;
     display: inline-block;
+} */
+
+.light{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+    width: 110px;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+.red{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: red;
+
+}
+
+.green{
+    background-color: green;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+.yellow{
+    background-color: yellow;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
 }
