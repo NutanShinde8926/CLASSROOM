@@ -5,8 +5,8 @@
    }
 
 
-/* amzazo header */
-/* #navbar {
+amzazo header */
+ #navbar {
     height: 60px;
     background-color: #0f1111;
 }
@@ -20,7 +20,7 @@ button {
 a{
     margin-right: 180px;
     text-decoration: none;
-} */
+}
 
 div{
     margin: 25px;
